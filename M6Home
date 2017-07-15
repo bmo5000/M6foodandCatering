@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>M6</title>
+    <link rel="stylesheet" href="css/flexboxgrid.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header id="main-header">
+      <div class="container">
+        <div class="row end-sm end-md end-lg center-xs middle-xs middle-sm middle-md middle-lg">
+          <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+            <h1><span class="primary-text"><img src="pictures/logo.jpeg" ></span></h1>
+          </div>
+          <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+            <nav id="navbar">
+              <ul>
+                <li class="current"><a href="m6catering.html">Home</a></li>
+                <li><a href="History.html">History</a></li>
+                <li><a href="Future.html">Future</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- SHOWCASE -->
+    <section id="showcase">
+      <div class="container">
+        <div class="row center-xs center-sm center-md center-md middle-sm middle-sm middle-md middle-lg">
+          <div class="col-xs-10 col-sm-5 col-md-10 col-lg-7 showcase-content">
+            <h1><img src="pictures/logoblue.png" style=width:45% <br><br><span class="primary-text">You pick it, We fix it</span></h1>
+            <p>   </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section id="features">
+      <div class="container">
+        <div class="row center-xs center-sm center-md center-lg">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h2>Greatest Achievements</h2>
+            <p>the girls love me</p>
+            <!-- ICON ROW 1 -->
+            <div class="row center-xs center-sm center-md center-lg">
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-dashboard"></i><br>
+                <h4>greatness</h4>
+                <p>I go to church</p>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-question-circle-o"></i><br>
+                <h4>Support ya boy</h4>
+                <p>I'm in college</p>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-rocket"></i><br>
+                <h4>gettting better</h4>
+                <p>love learning and bettering my skills </p>
+              </div>
+            </div>
+
+            <!-- ICON ROW 2 -->
+            <div class="row center-xs center-sm center-md center-lg">
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-line-chart"></i><br>
+                <h4>18</h4>
+                <p>learned a lot and have a lot more life to live</p>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-users"></i><br>
+                <h4>Multi-User</h4>
+                <p>I love video games</p>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <i class="fa fa-plug"></i><br>
+                <h4>Plug & Play</h4>
+                <p>i learn and adapt to situations</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- INFO SECTION -->
+    <section id="info">
+      <div class="container">
+        <div class="row center-xs center-sm center-md center-lg middle-xs middle-sm middle-md middle-lg">
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <img src="images/IMG_1997.JPG" >
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <h2>Core Features</h2>
+            <ul>
+              <li><i class="fa fa-check"></i> 5'11</li>
+              <li><i class="fa fa-check"></i> 160lbs</li>
+              <li><i class="fa fa-check"></i> 4.6 40yd dash</li>
+              <li><i class="fa fa-check"></i> good time Guarantee</li>
+              <li><i class="fa fa-check"></i> Mulitple languages</li>
+              <li><i class="fa fa-check"></i> Plug & Play</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPANY -->
+    <section id="company">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <h4>Contact Us</h4>
+            <ul>
+              <li><i class="fa fa-phone"></i> (510) 260-1320</li>
+              <li><i class="fa fa-envelope"></i> bryonmuccular7@gmail.com</li>
+              <li><i class="fa fa-map"></i> 4822 State Court <br> Richmond, CA 94804</li>
+            </ul>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <h4>About Us</h4>
+            <p>I am a savage and want to be the greatest at everything.</p>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <h4>Subscribe</h4>
+            <p>youtube.com/kingbmo5000</p>
+            <form>
+              <input type="text" name="email" placeholder="Enter Email">
+              <button type="submit" name="button">Submit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer id="main-footer">
+      <div class="container">
+        <div class="row center-xs center-sm center-md center-lg">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <p>Product of The Hidden Genius Project</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
